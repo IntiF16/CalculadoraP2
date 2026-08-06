@@ -7,4 +7,13 @@
         Console.WriteLine(Multiplication.Multiply(5, 6));
         Console.WriteLine(Division.Divide(7, 8));
     }
-    }
+}
+
+// Esta clase implementa la operación <nombre-operación>
+public class Addition
+{
+   public static int Add(int a, int b)
+   {
+       return a + b;
+   }
+}
