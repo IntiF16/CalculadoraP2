@@ -8,3 +8,11 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
+
+public class Addition
+{
+   public static int Add(int a, int b)
+   {
+       return a + b;
+   }
+}
