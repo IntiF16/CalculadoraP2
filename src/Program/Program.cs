@@ -9,6 +9,7 @@
     }
 }
 
+// Esta clase implementa la operación <nombre-operación>
 public class Addition
 {
    public static int Add(int a, int b)
