@@ -7,4 +7,4 @@
         Console.WriteLine(Multiplication.Multiply(5, 6));
         Console.WriteLine(Division.Divide(7, 8));
     }
-}
+    }
