@@ -9,11 +9,20 @@
     }
 }
 
-// Esta clase implementa la operación <nombre-operación>
+// Esta clase implementa la operación suma
 public class Addition
 {
    public static int Add(int a, int b)
    {
        return a + b;
+   }
+}
+
+// Esta clase implementa la operación resta
+public class Subtraction
+{
+   public static int Subtract(int a, int b)
+   {
+       return a - b;
    }
 }
