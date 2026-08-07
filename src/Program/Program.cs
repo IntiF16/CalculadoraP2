@@ -7,8 +7,7 @@
         Console.WriteLine(Multiplication.Multiply(5, 6));
         Console.WriteLine(Division.Divide(7, 8));
     }
-}
-
+// Esta clase implementa la operación multiplicación
 public class Multiplication
 {
    public static int Multiply(int a, int b)
